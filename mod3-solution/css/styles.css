@@ -52,7 +52,7 @@
   background-color:rgba(0, 100, 255, .7);
 }
 .tallSection p:first-child {
-  text-align:center;
+  /*text-align:center;*/
   font-size:1.3em;
   padding-bottom: 0px;
 }
